@@ -52,7 +52,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #FDA246;
+  background: #2d2a26 !important;
   position: absolute;
   right: 0;
   width: 240px;
@@ -65,7 +65,7 @@ p {
 }
 .sidebar-wrapper .profile-container {
   padding: 30px;
-  background: rgba(0, 0, 0, 0.2);
+  background: #c2ac95 !important;
   text-align: center;
   color: #fff;
 }
